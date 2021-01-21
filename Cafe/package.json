@@ -18,7 +18,7 @@
     "pug": "2.0.0-beta11",
     "sequelize": "^5.13.1",
     "sequelize-date-no-tz-postgres": "^1.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socket.io-sequelize": "^1.0.1"
   }
 }
